@@ -1,0 +1,68 @@
+
+=======================================================================================================================================================================
+Plugins                     Versión   Fabricante                                  Vulnerabilidad                        Readme (site/wp-content/plugins/)
+=======================================================================================================================================================================
+Activity Log                2.4.0     Yakir Sitbon, Maor Chasen, Ariel Klikstein  Cross-Site Scripting (XSS)            aryo-activity-log/readme.txt
+Admin Menu Tree Page View   2.6.9     Pär Thernström                              Cross-Site Request Forgery (CSRF)     admin-menu-tree-page-view/readme.txt
+Admin Menu Tree Page View   2.6.9     Pär Thernström                              Privilege Escalation                  admin-menu-tree-page-view/readme.txt
+Advanced Order Export       1.5.4     AlgolPlus                                   CSV Injection                         woo-order-export-lite/readme.txt
+All In One Favicon          4.6       Arne Franken                                Cross-Site Scripting (XSS)            all-in-one-favicon/readme.txt
+Caldera Forms               1.5.9.1   Caldera Labs                                Cross-Site Scripting (XSS)            caldera-forms/readme.txt
+CMS Tree Page View          1.4       Pär Thernström                              Cross-Site Request Forgery (CSRF)     cms-tree-page-view/readme.txt
+CMS Tree Page View          1.4       Pär Thernström                              Privilege Escalation                  cms-tree-page-view/readme.txt
+Comments Import & Export    2.0.4     WebToffee                                   CSV Injection                         comments-import-export-woocommerce/readme.txt
+Contact Form DB             2.10.32   Michael Simpson                             CSV Injection                         contact-form-7-to-database-extension/readme.txt
+Contact Form Maker          1.12.20   WebDorado Form Builder Team                 SQL Injection (SQLi)                  contact-form-maker/readme.txt
+CopySafe Web Protection     2.6       ArtistScope                                 Cross-Site Request Forgery (CSRF)     wp-copysafe-web/readme.txt
+Corner Ad                   1.0.7     CodePeople                                  Cross-Site Scripting (XSS)            corner-ad/readme.txt
+Duplicator                  1.2.32    Snap Creek                                  Cross-Site Scripting (XSS)            duplicator/readme.txt
+Easy Modal                  2.0.17    Daniel Iser                                 SQL Injection (SQLi)                  easy-modal/readme.txt
+Email Subscribers & News    3.4.7     Icegram                                     Information Disclosure                email-subscribers/readme.txt
+Event List                  0.7.8     mibuthu                                     SQL Injection (SQLi)                  event-list/readme.txt
+File Manager                3.0.1     Aftabul Islam                               Cross-Site Request Forgery (CSRF)     file-manager/readme.txt
+Form Maker                  1.12.20   WebDorado Form Builder Team                 CSV Injection                         form-maker/readme.txt
+Form Maker                  1.12.24   WebDorado Form Builder Team                 SQL Injection (SQLi)                  form-maker/readme.txt
+Global Content Blocks       2.1.5     Dave Liske                                  Cross-Site Request Forgery (CSRF)     global-content-blocks/readme.txt
+Google Drive for WordPress  2.2       Securenext Softwares WP Team                Remote Code Execution (RCE)           wp-google-drive/readme.txt
+Huge-IT Video Gallery       2.0.4     Huge-IT                                     SQL Injection (SQLi)                  gallery-video/readme.txt
+iThemes Security            7.0.2     iThemes                                     SQL Injection (SQLi)                  better-wp-security/readme.txt
+JTRT Responsive Tables      4.1       John Tendik                                 SQL Injection (SQLi)                  jtrt-responsive-tables/readme.txt
+KittyCatfish                2.2       Missilesilo                                 SQL Injection (SQLi)                  kittycatfish/readme.txt
+Mail Masta                  1.0       Mail Masta                                  SQL Injection (SQLi)                  mail-masta/readme.txt
+Membership Simplified       1.58      William.DeAngelis                           Arbitrary File Download               membership-simplified-for-oap-members-only/readme.txt
+Metronet Tag Manager        1.2.7     Ronald Huereca                              Cross-Site Request Forgery (CSRF)     metronet-tag-manager/readme.txt
+NewStatPress                1.2.4     Stefano Tognon and cHab                     Cross-Site Scripting (XSS)            newstatpress/readme.txt
+Participants Database       1.7.5.9   Roland Barker, xnau webdesign               Cross-Site Scripting (XSS)            participants-database/readme.txt
+Pie Register                3.0.9     Genetech Solutions                          Blind SQL Injection                   pie-register/readme.txt
+Plus Responsive Ticket      7.1.3     Pradeep Makone                              Privilege Escalation                  wp-support-plus-responsive-ticket-system/readme.txt
+Poll system                 1.2.4     Wpdevart                                    SQL Injection (SQLi)                  polls-widget/readme.txt
+Popup by Supsystic          1.7.6     supsystic.com                               Cross-Site Request Forgery (CSRF)     popup-by-supsystic/readme.txt
+Relevanssi                  4.0.4     Mikko Saari                                 Cross-Site Scripting (XSS)            relevanssi/readme.txt
+Responsive Cookie Consent   1.7       James Koussertari                           Cross-Site Scripting (XSS)            responsive-cookie-consent/readme.txt
+Simple Fields               0.3.5     Pär Thernström                              Local File Inclusion (LFI)            simple-fields/readme.txt
+Simple Fields               0.3.5     Pär Thernström                              Remote Code Execution (RCE)           simple-fields/readme.txt
+Simple Fields               0.3.5     Pär Thernström                              Remote File Inclusion (RFI)           simple-fields/readme.txt
+Site Editor                 1.1.1     Site Editor Team                            Local File Inclusion (LFI)            site-editor/readme.txt
+Smart Google Code Inserter  3.5       Oturia                                      SQL Injection (SQLi)                  smart-google-code-inserter/readme.txt
+Social Media Widget         3.2.5     Acurax                                      Cross-Site Request Forgery (CSRF)     acurax-social-media-widget/readme.txt
+Spider Event Calendar       1.5.51    WebDorado                                   SQL Injection (SQLi)                  spider-event-calendar/readme.txt
+Tribulant Newsletters       4.6.4.2   Tribulant Software                          Cross-Site Scripting (XSS)            newsletters-lite/readme.txt
+Ultimate Form Builder Lite  1.3.7     AccessPress Themes                          SQL Injection (SQLi)                  ultimate-form-builder-lite/readme.txt
+Ultimate Product Catalog    4.2.24    Etoile Web Design                           PHP Object Injection                  ultimate-product-catalogue/readme.txt
+Ultimate Product Catalog    4.2.2     Etoile Web Design                           SQL Injection (SQLi)                  ultimate-product-catalogue/readme.txt
+User Login Log              2.2.1     Weblizar                                    Cross-Site Scripting (XSS)            user-login-log/readme.txt
+User Role Editor            4.25      Vladimir Garagulya                          Privilege Escalation                  user-role-editor/readme.txt
+WebDorado Gallery           1.3.29    Photo Gallery Team                          SQL Injection (SQLi)                  photo-gallery/readme.txt
+WF Cookie Consent           1.1.3     Wunderfarm                                  Cross-Site Scripting (XSS)            wf-cookie-consent/readme.txt
+WHIZZ                       1.1.1     Browserweb Inc                              Cross-Site Request Forgery (CSRF)     whizz/readme.txt
+Woo Import Export           1.0       VJInfotech                                  Arbitrary File Deletion               woo-import-export-lite/readme.txt
+WooCommerce                 3.0       Automattic                                  Directory Traversal                   woocommerce/readme.txt
+WordPress Download Manager  2.9.60    Shahjada                                    Cross-Site Request Forgery (CSRF)     download-manager/readme.txt
+WordPress File Upload       4.3.3     Nickolas Bossinas                           Cross-Site Scripting (XSS)            wp-file-upload/readme.txt
+WordPress Firewall 2        1.3       Matthew Pavkov                              Cross-Site Request Forgery (CSRF)     wordpress-firewall-2/readme.txt
+WordPress Firewall 2        1.3       Matthew Pavkov                              Cross-Site Scripting (XSS)            wordpress-firewall-2/readme.txt
+WP Google Map Plugin        4.0.4     flippercode                                 SQL Injection (SQLi)                  wp-google-map-plugin/readme.txt
+WP Jobs                     1.4       Intense WP                                  SQL Injection (SQLi)                  wp-jobs/readme.txt
+WP Security Audit Log       3.1.1     WP White Security                           Sensitive Information Disclosure      wp-security-audit-log/readme.txt
+WP with Spritz              1.0       Yoko Co.                                    Remote File Inclusion (RFI)           wp-with-spritz/readme.txt
+WP-Testimonials             3.4.1     Jodi Diehl                                  SQL Injection (SQLi)                  wp-testimonials/readme.txt
