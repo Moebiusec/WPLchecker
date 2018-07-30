@@ -13,3 +13,15 @@ ____/|__/  /_/     /_____/\___/ /_/ /_/\___/\___/ /_/|_| \___//_/
 +                 MOEBIUS TEAM - blog.moebiusec.com                 +
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
 ```
+
+## Instalación
+
+```
+git clone https://github.com/Moebiusec/WPLchecker.git
+
+cd WPLchecker/
+
+chmod +x WPLchecker.py
+
+./WPLchecker.py
+```
