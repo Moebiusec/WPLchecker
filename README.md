@@ -8,7 +8,7 @@ ____/|__/  /_/     /_____/\___/ /_/ /_/\___/\___/ /_/|_| \___//_/
 
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
 +                     [   WPLchecker  v1.0b   ]                     +
-+          [   64 Vulnerabilidades   ]  [   57 Plugins   ]          +
++          [   65 Vulnerabilidades   ]  [   57 Plugins   ]          +
 +           Escrito por:  Juampa @UnD3sc0n0c1d0 Rodríguez           +
 +                 MOEBIUS TEAM - blog.moebiusec.com                 +
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
