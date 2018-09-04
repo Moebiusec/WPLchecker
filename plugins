@@ -28,6 +28,7 @@ Huge-IT Video Gallery       2.0.4     Huge-IT                                   
 iThemes Security            7.0.2     iThemes                                     SQL Injection (SQLi)                  better-wp-security/readme.txt
 JTRT Responsive Tables      4.1       John Tendik                                 SQL Injection (SQLi)                  jtrt-responsive-tables/readme.txt
 KittyCatfish                2.2       Missilesilo                                 SQL Injection (SQLi)                  kittycatfish/readme.txt
+Mail Masta                  1.0       Mail Masta                                  Local File Inclusion (LFI)            mail-masta/readme.txt
 Mail Masta                  1.0       Mail Masta                                  SQL Injection (SQLi)                  mail-masta/readme.txt
 Membership Simplified       1.58      William.DeAngelis                           Arbitrary File Download               membership-simplified-for-oap-members-only/readme.txt
 Metronet Tag Manager        1.2.7     Ronald Huereca                              Cross-Site Request Forgery (CSRF)     metronet-tag-manager/readme.txt
