@@ -14,7 +14,7 @@ ____/|__/  /_/     /_____/\___/ /_/ /_/\___/\___/ /_/|_| \___//_/
 
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
 +                     [   WPLchecker  v1.0b   ]                     +
-+          [   64 Vulnerabilidades   ]  [   57 Plugins   ]          +
++          [   65 Vulnerabilidades   ]  [   57 Plugins   ]          +
 +           Escrito por:  Juampa @UnD3sc0n0c1d0 Rodríguez           +
 +                 MOEBIUS TEAM - blog.moebiusec.com                 +
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +"""
@@ -23,7 +23,7 @@ def usage():
     print """
     USO: WPLchecker [Objetivo]
 
-NOTA.- Puedes visualizar la lista completa de plugins pulsando:
+    NOTA.- Puedes visualizar la lista completa de plugins pulsando:
 
     WPLchecker plugins
     """
@@ -39,9 +39,12 @@ ADVERTENCIA.- No ha ejecutado la herramienta de forma correcta, por favor, revis
     elif sys.argv[1] == "plugins":
         os.system("cat plugins")
         print ""
+    elif sys.argv[1] == "paths":
+        print """
+ADVERTENCIA.- No ha ejecutado la herramienta de forma correcta, por favor, revise la ayuda."""
+        usage()
     elif len(sys.argv[0:]) == 2:
         banner()
-        LST=open("paths")
         VRS1 = os.popen("curl -s " + sys.argv[1] + " | grep 'content=\"WordPress' | cut -d '\"' -f4").read()
         VRS2 = os.popen("curl -s " + sys.argv[1] + "/wp-login.php | grep ';ver=' | cut -d ';' -f4 | cut -d '=' -f2 | cut -d \"'\" -f1 | grep .").read()
         if VRS1 != "":
@@ -52,6 +55,7 @@ ADVERTENCIA.- No ha ejecutado la herramienta de forma correcta, por favor, revis
         print "========================================================================================================================================================================"
         print "Plugins                     Versión   Fabricante                                  Vulnerabilidad                        Readme (site/wp-content/plugins/)"
         print "========================================================================================================================================================================"
+        LST=open("paths")
         for PLG in LST:
             PLG = PLG[:-1]
             RST = os.popen("curl -sI " + sys.argv[1] + "/wp-content/plugins/" + PLG + "/readme.txt | grep -c OK").read()
